@@ -15,9 +15,7 @@ I'm a passionate web developer who enjoys building responsive and user-friendly 
 
 🌱 Currently learning React.js
 
-🎬 Working on CineVerse, a movie discovery website
-
-🚀 Looking for Frontend Developer Internship opportunities
+🚀 Looking for Frontend Developer opportunities
 
 ---
 
